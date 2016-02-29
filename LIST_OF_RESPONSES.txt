@@ -1,0 +1,3 @@
+LIST_OF_RESPONSES
+good
+bad
